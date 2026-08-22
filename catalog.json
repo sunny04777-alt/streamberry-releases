@@ -1,14 +1,14 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 11,
+  "catalog_version": 12,
   "updated": "2026-08-22",
   "app": {
-    "latest_version": "1.2.0",
-    "notice": "후원 인식·성능·데이터 안정성 개선 · 확장모듈 스토어 · 집계 기능 추가",
-    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.0/streamberry-1.2.0.exe",
-    "sha256": "5016f594aa9a94aa9776406bf621cc23fc3a3d3c5468643ab175e0e9d0188770",
-    "size": 45324889,
-    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.0"
+    "latest_version": "1.2.4",
+    "notice": "업데이트 후 재시작 실패 수정 · 새 버전 안내 개선 · 방송 로그 숫자를 집계 기준으로 통일",
+    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.4/streamberry-1.2.4.exe",
+    "sha256": "8451776565c0541e184d6ee8ae32164fec505ebb3da5baef50d2195d1c53a5a6",
+    "size": 45333771,
+    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.4"
   },
   "gift_item_id_map": {
     "LIVE_GIFT_QUESTIONMARK": "물음표",
