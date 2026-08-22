@@ -1,14 +1,14 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 1,
+  "catalog_version": 2,
   "updated": "2026-08-22",
   "app": {
-    "latest_version": "1.0.1",
-    "notice": "",
-    "download_url": "",
-    "sha256": "",
-    "size": 0,
-    "release_notes_url": ""
+    "latest_version": "1.1.0",
+    "notice": "설정 유실 방지 · 놓치던 후원 인식 · 방송 중 렉 해소 · 월간 집계 추가",
+    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.1.0/젶라도와주는딸기.exe",
+    "sha256": "6e479a1e883a3d74a118c364ac6da4c376f037062f1f2035a341dbc7c0598385",
+    "size": 45232725,
+    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.1.0"
   },
   "gift_item_id_map": {
     "LIVE_GIFT_QUESTIONMARK": "물음표",
