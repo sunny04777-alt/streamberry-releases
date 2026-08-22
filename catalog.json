@@ -1,6 +1,6 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 4,
+  "catalog_version": 5,
   "updated": "2026-08-22",
   "app": {
     "latest_version": "1.1.0",
@@ -39,7 +39,7 @@
     "LIVE_PRANK_OUT_1": "아웃!",
     "LIVE_WEBP_2": "선물상자",
     "LIVE_PRANK_ZEM_3": "젬팡x11",
-    "LIVE_WEBP_LUVU_1": "알럽유",
+    "LIVE_WEBP_LUVU_1": "알러뷰",
     "LIVE_BOOTH_CHEER": "응원해!",
     "LIVE_WEBP_3": "춤추는강아지",
     "LIVE_BOOTH_DANCE_2": "낙지춤",
@@ -86,7 +86,7 @@
     "선물상자": 100,
     "아웃!": 100,
     "젬팡x11": 111,
-    "알럽유": 125,
+    "알러뷰": 125,
     "응원해!": 170,
     "춤추는강아지": 250,
     "낙지춤": 300,
