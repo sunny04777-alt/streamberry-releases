@@ -1,0 +1,79 @@
+{
+  "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
+  "store_version": 1,
+  "updated": "2026-08-22 14:48:46",
+  "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
+  "extensions": [
+    {
+      "id": "chosung-quiz",
+      "name": "초성 퀴즈",
+      "icon": "🤔",
+      "version": "1.1",
+      "description": "초성과 정답을 설정하고 제일 먼저 정답을 맞춘 사람을 화면에 띄워주는 익스텐션입니다. 문제은행 기능 포함.",
+      "author": "",
+      "permissions": [
+        "chat"
+      ],
+      "file": "chosung-quiz-1.1.zip",
+      "sha256": "473bb8869ff9d83430c3edbd76ee2d91657884124817011e21434f21641a8f88",
+      "size": 18706
+    },
+    {
+      "id": "dice-roller",
+      "name": "주사위 굴리기",
+      "icon": "🎲",
+      "version": "1.1",
+      "description": "d4/d6/d8/d10/d12/d20 등 다양한 주사위를 굴려 결과를 방송 화면에 표시합니다. 채팅 명령어 연동 및 다중 주사위 지원.",
+      "author": "",
+      "permissions": [
+        "chat"
+      ],
+      "file": "dice-roller-1.1.zip",
+      "sha256": "5b9ac11c3b7ebc1be8485988631c3f977728191343bac9b036ce36b38e498395",
+      "size": 10306
+    },
+    {
+      "id": "name_fortune",
+      "name": "이름 궁합 (이름점)",
+      "icon": "💞",
+      "version": "1.1",
+      "description": "시청자들이 !이름점 을 채팅치면 자동으로 획수 궁합을 애니메이션으로 보여주고 랭킹을 매기는 확장 모듈입니다.",
+      "author": "",
+      "permissions": [
+        "chat"
+      ],
+      "file": "name_fortune-1.1.zip",
+      "sha256": "ff6d2f30ff2e408f50e5e98b31507cca038b49327297bb9d5c436b0d24b32084",
+      "size": 8436
+    },
+    {
+      "id": "flower_fortune",
+      "name": "두근두근 꽃점",
+      "icon": "🌸",
+      "version": "1.1",
+      "description": "꽃밭에서 찾은 꽃의 잎을 하나씩 떼어 향방을 점치는 가챠/도박 콘텐츠입니다. (당첨/꽝 무작위 및 긴장감 극대화 기능 제공)",
+      "author": "",
+      "permissions": [
+        "chat"
+      ],
+      "file": "flower_fortune-1.1.zip",
+      "sha256": "79b39a71d2c0a05db7d35eefc39ecda826fcb3a42a6066014df6e4b08ec39144",
+      "size": 15766
+    },
+    {
+      "id": "strawberry_roulette",
+      "name": "딸기 케이크 포인트 룰렛",
+      "icon": "🍓",
+      "version": "1.1",
+      "description": "딸기 케이크 조각을 구매해, 들어있는 딸기 비율만큼 상금을 나눠가지는 예측 게임입니다.",
+      "author": "",
+      "permissions": [
+        "chat",
+        "donation"
+      ],
+      "file": "strawberry_roulette-1.1.zip",
+      "sha256": "5a11e1d3d376130870e97770b874c465881172a9f279ad90dde0ff92e62169ff",
+      "size": 14682
+    }
+  ]
+}
