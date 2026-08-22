@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-08-22 17:05:13",
+  "updated": "2026-08-22 18:14:20",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -81,16 +81,16 @@
       "id": "puppy_theme",
       "name": "🐶 귀여운 강아지 테마",
       "icon": "🐶",
-      "version": "1.1",
+      "version": "1.2",
       "description": "호스트 위젯과 채팅창에 강아지 테마 디자인을 입혀줍니다. 각 항목별로 토글 ON/OFF 가능.",
       "author": "Antigravity",
       "permissions": [
         "widget_theme",
         "chat_style"
       ],
-      "file": "puppy_theme-1.1.zip",
-      "sha256": "2bf53162822fd75ac80e9e60e0c7dcbf2a037d9b399507c7e26389a33eced4cd",
-      "size": 11358
+      "file": "puppy_theme-1.2.zip",
+      "sha256": "5f76529d80bf5191694fa025d28894056823f7f92a26054d4030d127a59fb923",
+      "size": 11112
     }
   ]
 }
