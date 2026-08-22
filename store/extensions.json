@@ -1,37 +1,9 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-08-22 14:48:46",
+  "updated": "2026-08-22 17:05:13",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
-    {
-      "id": "chosung-quiz",
-      "name": "초성 퀴즈",
-      "icon": "🤔",
-      "version": "1.1",
-      "description": "초성과 정답을 설정하고 제일 먼저 정답을 맞춘 사람을 화면에 띄워주는 익스텐션입니다. 문제은행 기능 포함.",
-      "author": "",
-      "permissions": [
-        "chat"
-      ],
-      "file": "chosung-quiz-1.1.zip",
-      "sha256": "473bb8869ff9d83430c3edbd76ee2d91657884124817011e21434f21641a8f88",
-      "size": 18706
-    },
-    {
-      "id": "dice-roller",
-      "name": "주사위 굴리기",
-      "icon": "🎲",
-      "version": "1.1",
-      "description": "d4/d6/d8/d10/d12/d20 등 다양한 주사위를 굴려 결과를 방송 화면에 표시합니다. 채팅 명령어 연동 및 다중 주사위 지원.",
-      "author": "",
-      "permissions": [
-        "chat"
-      ],
-      "file": "dice-roller-1.1.zip",
-      "sha256": "5b9ac11c3b7ebc1be8485988631c3f977728191343bac9b036ce36b38e498395",
-      "size": 10306
-    },
     {
       "id": "name_fortune",
       "name": "이름 궁합 (이름점)",
@@ -47,33 +19,78 @@
       "size": 8436
     },
     {
-      "id": "flower_fortune",
-      "name": "두근두근 꽃점",
-      "icon": "🌸",
-      "version": "1.1",
-      "description": "꽃밭에서 찾은 꽃의 잎을 하나씩 떼어 향방을 점치는 가챠/도박 콘텐츠입니다. (당첨/꽝 무작위 및 긴장감 극대화 기능 제공)",
+      "id": "watermelon-game",
+      "name": "수박 게임",
+      "icon": "🍉",
+      "version": "2.0",
+      "description": "후원과 연동된 수박게임입니다.",
       "author": "",
       "permissions": [
-        "chat"
+        "donation",
+        "boost"
       ],
-      "file": "flower_fortune-1.1.zip",
-      "sha256": "79b39a71d2c0a05db7d35eefc39ecda826fcb3a42a6066014df6e4b08ec39144",
-      "size": 15766
+      "file": "watermelon-game-2.0.zip",
+      "sha256": "789cb51ba92d8fddb2b4535ad9c858ccf2c371fd321097f8631552973253a56f",
+      "size": 642901
     },
     {
-      "id": "strawberry_roulette",
-      "name": "딸기 케이크 포인트 룰렛",
-      "icon": "🍓",
+      "id": "icecream-raffle",
+      "name": "아이스크림 탑 추첨",
+      "icon": "🍦",
+      "version": "1.0",
+      "description": "아이스크림 후원과 부스트가 콘 위에 색색의 스쿱으로 쌓입니다. 추첨 버튼을 누르면 탑이 무너지며 스쿱 하나가 당첨자로 떠오릅니다. 타워 화면(우측 세로)과 당첨 화면(중앙)을 따로 OBS에 추가하세요.",
+      "author": "나무발발이",
+      "permissions": [
+        "donation",
+        "boost"
+      ],
+      "file": "icecream-raffle-1.0.zip",
+      "sha256": "75c28dfab19e733f30ccd18a31097201d88e7462a43d83a4bb9291c54eb5863c",
+      "size": 17288
+    },
+    {
+      "id": "boost-raffle",
+      "name": "부스트 추첨 (룰렛/뽑기)",
+      "icon": "🎰",
       "version": "1.1",
-      "description": "딸기 케이크 조각을 구매해, 들어있는 딸기 비율만큼 상금을 나눠가지는 예측 게임입니다.",
+      "description": "부스트 후원자를 기반으로 방송용 깔끔한 추첨 모듈을 제공합니다.",
+      "author": "Antigravity",
+      "permissions": [
+        "boost"
+      ],
+      "file": "boost-raffle-1.1.zip",
+      "sha256": "a30653b27fd7fb6255cce52908c8020d7eab991c6f5546fd41cecc7e64cb3d8a",
+      "size": 9313
+    },
+    {
+      "id": "boost_gacha",
+      "name": "부스트 가챠 추첨",
+      "icon": "✨",
+      "version": "1.1.0",
+      "description": "부스트(또는 지정한 후원)를 한 시청자만 풀에 들어가고, 가중치로 한 명을 가챠 카드 연출로 뽑습니다.",
       "author": "",
       "permissions": [
-        "chat",
+        "boost",
         "donation"
       ],
-      "file": "strawberry_roulette-1.1.zip",
-      "sha256": "5a11e1d3d376130870e97770b874c465881172a9f279ad90dde0ff92e62169ff",
-      "size": 14682
+      "file": "boost_gacha-1.1.0.zip",
+      "sha256": "aa1193bca9975537475089d6fb209066472802f5a4b88bcb319ab0251d320553",
+      "size": 11382
+    },
+    {
+      "id": "puppy_theme",
+      "name": "🐶 귀여운 강아지 테마",
+      "icon": "🐶",
+      "version": "1.1",
+      "description": "호스트 위젯과 채팅창에 강아지 테마 디자인을 입혀줍니다. 각 항목별로 토글 ON/OFF 가능.",
+      "author": "Antigravity",
+      "permissions": [
+        "widget_theme",
+        "chat_style"
+      ],
+      "file": "puppy_theme-1.1.zip",
+      "sha256": "2bf53162822fd75ac80e9e60e0c7dcbf2a037d9b399507c7e26389a33eced4cd",
+      "size": 11358
     }
   ]
 }
