@@ -1,81 +1,52 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-08-22 18:14:20",
+  "updated": "2026-08-23 00:07:51",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
       "id": "name_fortune",
       "name": "이름 궁합 (이름점)",
       "icon": "💞",
-      "version": "1.1",
+      "version": "1.2",
       "description": "시청자들이 !이름점 을 채팅치면 자동으로 획수 궁합을 애니메이션으로 보여주고 랭킹을 매기는 확장 모듈입니다.",
-      "author": "",
+      "author": "딸기소녀(@sunnycutelove)",
       "permissions": [
         "chat"
       ],
-      "file": "name_fortune-1.1.zip",
-      "sha256": "ff6d2f30ff2e408f50e5e98b31507cca038b49327297bb9d5c436b0d24b32084",
-      "size": 8436
+      "file": "name_fortune-1.2.zip",
+      "sha256": "db9022c33d9fb4003fbb3413ecbf01bd9a1fdbff5dc4ab9fd387bb5d4cd60cf7",
+      "size": 8762
     },
     {
       "id": "watermelon-game",
       "name": "수박 게임",
       "icon": "🍉",
-      "version": "2.0",
+      "version": "2.1",
       "description": "후원과 연동된 수박게임입니다.",
-      "author": "",
+      "author": "딸기소녀(@sunnycutelove)",
       "permissions": [
         "donation",
         "boost"
       ],
-      "file": "watermelon-game-2.0.zip",
-      "sha256": "789cb51ba92d8fddb2b4535ad9c858ccf2c371fd321097f8631552973253a56f",
-      "size": 642901
+      "file": "watermelon-game-2.1.zip",
+      "sha256": "f1f164ceca8f836e9a1d17844901b4d91d7e8d442e64d8dcd05c0566589f8d6a",
+      "size": 2771561
     },
     {
       "id": "icecream-raffle",
       "name": "아이스크림 탑 추첨",
       "icon": "🍦",
-      "version": "1.0",
+      "version": "1.1",
       "description": "아이스크림 후원과 부스트가 콘 위에 색색의 스쿱으로 쌓입니다. 추첨 버튼을 누르면 탑이 무너지며 스쿱 하나가 당첨자로 떠오릅니다. 타워 화면(우측 세로)과 당첨 화면(중앙)을 따로 OBS에 추가하세요.",
-      "author": "나무발발이",
+      "author": "딸기소녀(@sunnycutelove)",
       "permissions": [
         "donation",
         "boost"
       ],
-      "file": "icecream-raffle-1.0.zip",
-      "sha256": "75c28dfab19e733f30ccd18a31097201d88e7462a43d83a4bb9291c54eb5863c",
-      "size": 17288
-    },
-    {
-      "id": "boost-raffle",
-      "name": "부스트 추첨 (룰렛/뽑기)",
-      "icon": "🎰",
-      "version": "1.1",
-      "description": "부스트 후원자를 기반으로 방송용 깔끔한 추첨 모듈을 제공합니다.",
-      "author": "Antigravity",
-      "permissions": [
-        "boost"
-      ],
-      "file": "boost-raffle-1.1.zip",
-      "sha256": "a30653b27fd7fb6255cce52908c8020d7eab991c6f5546fd41cecc7e64cb3d8a",
-      "size": 9313
-    },
-    {
-      "id": "boost_gacha",
-      "name": "부스트 가챠 추첨",
-      "icon": "✨",
-      "version": "1.1.0",
-      "description": "부스트(또는 지정한 후원)를 한 시청자만 풀에 들어가고, 가중치로 한 명을 가챠 카드 연출로 뽑습니다.",
-      "author": "",
-      "permissions": [
-        "boost",
-        "donation"
-      ],
-      "file": "boost_gacha-1.1.0.zip",
-      "sha256": "aa1193bca9975537475089d6fb209066472802f5a4b88bcb319ab0251d320553",
-      "size": 11382
+      "file": "icecream-raffle-1.1.zip",
+      "sha256": "e535442605624f703167d6ca815ddca06de42404da475b8c5d9431d61ad39687",
+      "size": 18336
     },
     {
       "id": "puppy_theme",
@@ -83,14 +54,14 @@
       "icon": "🐶",
       "version": "1.2",
       "description": "호스트 위젯과 채팅창에 강아지 테마 디자인을 입혀줍니다. 각 항목별로 토글 ON/OFF 가능.",
-      "author": "Antigravity",
+      "author": "딸기소녀(@sunnycutelove)",
       "permissions": [
         "widget_theme",
         "chat_style"
       ],
       "file": "puppy_theme-1.2.zip",
-      "sha256": "5f76529d80bf5191694fa025d28894056823f7f92a26054d4030d127a59fb923",
-      "size": 11112
+      "sha256": "6bda59b54787e54698cfc11c7e8b893c496426a1acd3e105c1486117e91ec677",
+      "size": 11130
     }
   ]
 }
