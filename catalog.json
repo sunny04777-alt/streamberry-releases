@@ -1,13 +1,13 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 6,
+  "catalog_version": 7,
   "updated": "2026-08-22",
   "app": {
     "latest_version": "1.2.0",
     "notice": "후원 인식·성능·데이터 안정성 개선 · 확장모듈 스토어 · 집계 기능 추가",
     "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.0/streamberry-1.2.0.exe",
-    "sha256": "b69c711406515d9baa1a0a61592884ac44632a62b2386d15421b7d93d9e35d54",
-    "size": 45229040,
+    "sha256": "5016f594aa9a94aa9776406bf621cc23fc3a3d3c5468643ab175e0e9d0188770",
+    "size": 45324889,
     "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.0"
   },
   "gift_item_id_map": {
