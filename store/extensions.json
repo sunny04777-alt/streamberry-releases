@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-08-23 00:21:09",
+  "updated": "2026-08-29 00:50:37",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -22,16 +22,17 @@
       "id": "watermelon-game",
       "name": "수박 게임",
       "icon": "🍉",
-      "version": "2.2",
-      "description": "후원과 연동된 수박게임입니다.",
+      "version": "3.6",
+      "description": "후원이 공이 되어 떨어지고, 같은 후원끼리 합쳐집니다. 게임에 쓸 후원을 제어판에서 고를 수 있습니다.",
       "author": "딸기소녀(@sunnycutelove)",
       "permissions": [
         "donation",
-        "boost"
+        "boost",
+        "obs"
       ],
-      "file": "watermelon-game-2.2.zip",
-      "sha256": "4dc047c0f87796843fccb19a32637c75b391b76a9b5f1b179838f7bd9fa7bfa4",
-      "size": 2772436
+      "file": "watermelon-game-3.6.zip",
+      "sha256": "fbacbb4ff8c721689f6fa3d418425bec69191e9378ded64efefdee36d677e948",
+      "size": 2490995
     },
     {
       "id": "icecream-raffle",
