@@ -1,14 +1,14 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 16,
-  "updated": "2026-09-04",
+  "catalog_version": 17,
+  "updated": "2026-09-19",
   "app": {
-    "latest_version": "1.2.7",
-    "notice": "후원 그림 68종 기본 탑재 · 후원 팝업·구름채팅·룰렛 설정 문제 수정",
-    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.7/streamberry-1.2.7.exe",
-    "sha256": "35258407a8246bc511bd51f106f30ed7946bc8a13955fb6f262a514f4c318d33",
-    "size": 54250224,
-    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.7"
+    "latest_version": "1.2.8",
+    "notice": "실시간 투표 수정 · 입장/부스트 알림 따로 설정 · 메모 자동 저장 · 메모 포인트 컬러",
+    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.8/streamberry-1.2.8.exe",
+    "sha256": "2e33351e10f19aec13bedfda9511c0496285b0901aa8b088776687452cdc54a2",
+    "size": 54499211,
+    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.8"
   },
   "gift_item_id_map": {
     "LIVE_GIFT_QUESTIONMARK": "물음표",
