@@ -1,14 +1,14 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 17,
-  "updated": "2026-09-19",
+  "catalog_version": 18,
+  "updated": "2026-10-03",
   "app": {
-    "latest_version": "1.2.8",
-    "notice": "실시간 투표 수정 · 입장/부스트 알림 따로 설정 · 메모 자동 저장 · 메모 포인트 컬러",
-    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.8/streamberry-1.2.8.exe",
-    "sha256": "2e33351e10f19aec13bedfda9511c0496285b0901aa8b088776687452cdc54a2",
-    "size": 54499211,
-    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.8"
+    "latest_version": "1.2.9",
+    "notice": "후원 팝업 안 보이던 문제(애니메이션 효과 끈 PC) · 명예의 전당 자동 등록·개수 제한 해제·정렬 · 럭드 렉 · 팬 목록 자동 정리",
+    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.9/streamberry-1.2.9.exe",
+    "sha256": "b33f68ca34d7f89fdcde96ed43eb85231e012d98d0c481edd10371c61643b7d5",
+    "size": 55800278,
+    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.9"
   },
   "gift_item_id_map": {
     "LIVE_GIFT_QUESTIONMARK": "물음표",
