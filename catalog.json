@@ -1,14 +1,14 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 18,
-  "updated": "2026-10-03",
+  "catalog_version": 19,
+  "updated": "2026-10-04",
   "app": {
-    "latest_version": "1.2.9",
-    "notice": "후원 팝업 안 보이던 문제(애니메이션 효과 끈 PC) · 명예의 전당 자동 등록·개수 제한 해제·정렬 · 럭드 렉 · 팬 목록 자동 정리",
-    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.9/streamberry-1.2.9.exe",
-    "sha256": "b33f68ca34d7f89fdcde96ed43eb85231e012d98d0c481edd10371c61643b7d5",
-    "size": 55800278,
-    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.9"
+    "latest_version": "1.2.10",
+    "notice": "젶딸 첫 콜라보, 통신함님의 확장 모듈 무료 배포 중! 업데이트 후 확장모듈 스토어를 확인하세요!",
+    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.10/streamberry-1.2.10.exe",
+    "sha256": "0ba552038c767b289fa63b33ce70be5cecb52c60878139a9514ec894de6e22b4",
+    "size": 55800725,
+    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.10"
   },
   "gift_item_id_map": {
     "LIVE_GIFT_QUESTIONMARK": "물음표",
