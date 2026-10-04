@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-10-04 15:07:47",
+  "updated": "2026-10-04 15:10:48",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -68,17 +68,17 @@
       "id": "ichiban-kuji",
       "name": "이치방쿠지",
       "icon": "🎟️",
-      "version": "2.1",
+      "version": "2.1.1",
       "description": "이치방쿠지 스타일 온라인 뽑기. 후원하면 쿠지권이 쌓이고 채팅 명령어로 쿠지를 뽑을 수 있습니다. 전용 디자인 제작은 통신함님 (@communication_box)에게 문의주세요!",
-      "author": "딸기소녀(@sunnycutelove)",
+      "author": "통신함 (@communication_box)",
       "permissions": [
         "chat",
         "donation",
         "obs"
       ],
-      "file": "ichiban-kuji-2.1.zip",
-      "sha256": "6be9de5dbd23ea0bc87120fd215aba3b371033a69e943feb627da237cd30d62f",
-      "size": 51692,
+      "file": "ichiban-kuji-2.1.1.zip",
+      "sha256": "77df93710e5354db129292d4b4bf5fd8e2e77aee5fdee1a448d4c9aa54a5ec00",
+      "size": 51669,
       "lock": {
         "sha256": "fe8a3bb830c729b0935755b2aec70248d05420cf269cf1ddcdb5773b25ec89e8",
         "hint": "제페토 통신함님 (@communication_box) 피드에서 비밀번호를 확인할 수 있습니다!"
