@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-08-29 00:50:37",
+  "updated": "2026-10-04 15:07:47",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -15,7 +15,7 @@
         "chat"
       ],
       "file": "name_fortune-1.2.zip",
-      "sha256": "db9022c33d9fb4003fbb3413ecbf01bd9a1fdbff5dc4ab9fd387bb5d4cd60cf7",
+      "sha256": "21526622811830405d0d49cedfaaf97e23959cf2d19aa0d8f58b9b915fc8e383",
       "size": 8762
     },
     {
@@ -31,8 +31,8 @@
         "obs"
       ],
       "file": "watermelon-game-3.6.zip",
-      "sha256": "fbacbb4ff8c721689f6fa3d418425bec69191e9378ded64efefdee36d677e948",
-      "size": 2490995
+      "sha256": "ac2cfa10a9204b6be9f5ab3c654e49f7839c6ef238e42be7dfd8cd8f2e094cf5",
+      "size": 2483149
     },
     {
       "id": "icecream-raffle",
@@ -63,6 +63,26 @@
       "file": "puppy_theme-1.2.zip",
       "sha256": "6bda59b54787e54698cfc11c7e8b893c496426a1acd3e105c1486117e91ec677",
       "size": 11130
+    },
+    {
+      "id": "ichiban-kuji",
+      "name": "이치방쿠지",
+      "icon": "🎟️",
+      "version": "2.1",
+      "description": "이치방쿠지 스타일 온라인 뽑기. 후원하면 쿠지권이 쌓이고 채팅 명령어로 쿠지를 뽑을 수 있습니다. 전용 디자인 제작은 통신함님 (@communication_box)에게 문의주세요!",
+      "author": "딸기소녀(@sunnycutelove)",
+      "permissions": [
+        "chat",
+        "donation",
+        "obs"
+      ],
+      "file": "ichiban-kuji-2.1.zip",
+      "sha256": "6be9de5dbd23ea0bc87120fd215aba3b371033a69e943feb627da237cd30d62f",
+      "size": 51692,
+      "lock": {
+        "sha256": "fe8a3bb830c729b0935755b2aec70248d05420cf269cf1ddcdb5773b25ec89e8",
+        "hint": "제페토 통신함님 (@communication_box) 피드에서 비밀번호를 확인할 수 있습니다!"
+      }
     }
   ]
 }
