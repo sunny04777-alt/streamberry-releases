@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-10-25 13:20:32",
+  "updated": "2026-10-25 22:41:10",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -38,16 +38,16 @@
       "id": "icecream-raffle",
       "name": "아이스크림 탑 추첨",
       "icon": "🍦",
-      "version": "1.1",
+      "version": "1.2",
       "description": "아이스크림 후원과 부스트가 콘 위에 색색의 스쿱으로 쌓입니다. 추첨 버튼을 누르면 탑이 무너지며 스쿱 하나가 당첨자로 떠오릅니다. 타워 화면(우측 세로)과 당첨 화면(중앙)을 따로 OBS에 추가하세요.",
       "author": "딸기소녀(@sunnycutelove)",
       "permissions": [
         "donation",
         "boost"
       ],
-      "file": "icecream-raffle-1.1.zip",
-      "sha256": "e535442605624f703167d6ca815ddca06de42404da475b8c5d9431d61ad39687",
-      "size": 18336
+      "file": "icecream-raffle-1.2.zip",
+      "sha256": "5aa0bc5331901a2c1484f44624c196ae0a66fbf02c67ec8c909d7734320e7285",
+      "size": 19901
     },
     {
       "id": "puppy_theme",
