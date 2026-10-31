@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-10-25 22:41:10",
+  "updated": "2026-10-31 16:54:42",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -46,7 +46,7 @@
         "boost"
       ],
       "file": "icecream-raffle-1.2.zip",
-      "sha256": "5aa0bc5331901a2c1484f44624c196ae0a66fbf02c67ec8c909d7734320e7285",
+      "sha256": "7b8bc8909aa210de964bc04c981d1a2bb682edcb609588ef9fa2a8c1b331a1a4",
       "size": 19901
     },
     {
@@ -123,6 +123,24 @@
         "sha256": "bf6cffa7050a02924863731b4eeaed50c756341876cdb6a3d68a7385f895ffea",
         "hint": "비밀번호는 제페토 슈가 (@from_gloss) 님 피드에서 확인해주세요!"
       }
+    },
+    {
+      "id": "candy-witch",
+      "name": "가장 빠른 사탕마녀는 누구?",
+      "icon": "🧙",
+      "version": "1.0",
+      "description": "시청자가 마녀 10명 중 한 명을 골라 응원하는 할로윈 빗자루 경주. 우승한 마녀가 자기를 응원한 착한 아이 한 명에게 사탕을 줍니다.",
+      "author": "우소우소 (@uso_uso_)",
+      "permissions": [
+        "chat",
+        "donation",
+        "boost",
+        "tts",
+        "obs"
+      ],
+      "file": "candy-witch-1.0.zip",
+      "sha256": "a71b7fda2b4781ce3a3fa8f26effb792418c2fb94edba756529bca49803f2208",
+      "size": 60563
     }
   ]
 }
