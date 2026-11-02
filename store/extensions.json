@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-10-31 16:54:42",
+  "updated": "2026-11-03 00:04:13",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -141,6 +141,23 @@
       "file": "candy-witch-1.0.zip",
       "sha256": "a71b7fda2b4781ce3a3fa8f26effb792418c2fb94edba756529bca49803f2208",
       "size": 60563
+    },
+    {
+      "id": "pipi-friendly",
+      "name": "당신을 위한 친절한 잡담 친구, 피피",
+      "icon": "💬",
+      "version": "2.1",
+      "description": "화면 한쪽에서 시간·날씨·계절·시청자에 맞춰 말을 거는 잡담 친구. 명령어로 다 같이 하는 미니게임 8종과 테마 14종.",
+      "author": "우소우소 (@uso_uso_)",
+      "permissions": [
+        "chat",
+        "donation",
+        "boost",
+        "obs"
+      ],
+      "file": "pipi-friendly-2.1.zip",
+      "sha256": "684059ce46465423232e8d08eabdf5c1ad28bd3ddc8543e8b9bf9f26a6c13d73",
+      "size": 748929
     }
   ]
 }
