@@ -1,7 +1,7 @@
 {
   "_설명": "확장모듈 스토어 목록. publish_store.py가 자동으로 만든다. 직접 고치지 말 것.",
   "store_version": 1,
-  "updated": "2026-11-03 00:04:13",
+  "updated": "2026-11-11 21:56:38",
   "base_url": "https://raw.githubusercontent.com/sunny04777-alt/streamberry-releases/main/store/",
   "extensions": [
     {
@@ -158,6 +158,23 @@
       "file": "pipi-friendly-2.1.zip",
       "sha256": "684059ce46465423232e8d08eabdf5c1ad28bd3ddc8543e8b9bf9f26a6c13d73",
       "size": 748929
+    },
+    {
+      "id": "pepero-game",
+      "name": "빼빼로 게임",
+      "icon": "🍫",
+      "version": "1.1",
+      "description": "시청자 두 명이 빼빼로 양 끝을 물고 번갈아 !ㄱ(먹기)·!ㄴ(그만)을 고릅니다. 더 많이 먹은 사람이 이기지만, 자기 차례에 쪽! 해버리면 집니다. 테이블 3개까지 동시에.",
+      "author": "딸기소녀(@sunnycutelove)",
+      "permissions": [
+        "chat",
+        "donation",
+        "boost",
+        "obs"
+      ],
+      "file": "pepero-game-1.1.zip",
+      "sha256": "0d9df5951430dc5d02624f29277f253eb013a0b1de5172aa1bcecc849e5d9b92",
+      "size": 76518
     }
   ]
 }
