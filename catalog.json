@@ -1,14 +1,14 @@
 {
   "_주의": "이 파일은 봇이 자동으로 읽어갑니다. 형식을 지켜주세요.",
-  "catalog_version": 19,
-  "updated": "2026-10-04",
+  "catalog_version": 20,
+  "updated": "2026-11-16",
   "app": {
-    "latest_version": "1.2.10",
-    "notice": "젶딸 첫 콜라보, 통신함님의 확장 모듈 무료 배포 중! 업데이트 후 확장모듈 스토어를 확인하세요!",
-    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.10/streamberry-1.2.10.exe",
-    "sha256": "0ba552038c767b289fa63b33ce70be5cecb52c60878139a9514ec894de6e22b4",
-    "size": 55800725,
-    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.10"
+    "latest_version": "1.2.11",
+    "notice": "OBS 오버레이 표시 오류 해결",
+    "download_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/download/v1.2.11/streamberry-1.2.11.exe",
+    "sha256": "30dfd78c8191a01782fe3d4628fb8dc465ab29f6cf0aa6a016333e658a081c39",
+    "size": 58923925,
+    "release_notes_url": "https://github.com/sunny04777-alt/streamberry-releases/releases/tag/v1.2.11"
   },
   "gift_item_id_map": {
     "LIVE_GIFT_QUESTIONMARK": "물음표",
